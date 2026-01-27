@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Bookmarks Podcast</title>
+    <link>https://drive.google.com/drive/folders/1dRkDlPN2HrA3GSBLYYQY6vV5FGccfYrf</link>
+    <description>Daily audio notes generated from Thanh's saved reading/bookmarks (Instapaper today; more sources later). Unlisted feed.</description>
+    <language>en-us</language>
+    <itunes:author>Thanh Pham</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
+
+    <item>
+      <title>Dario Amodei — The Adolescence of Technology</title>
+      <description><![CDATA[Instapaper audio note summary (Laura).]]></description>
+      <pubDate>Tue, 27 Jan 2026 04:02:00 GMT</pubDate>
+      <guid isPermaLink="false">instapaper-1967978907-2026-01-26</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cu_Yyrp5HfB1YDA8AteOKqs9k2inICOw" length="1134385" type="audio/mpeg" />
+      <itunes:duration>00:00:23</itunes:duration>
+    </item>
+
+  </channel>
+</rss>
