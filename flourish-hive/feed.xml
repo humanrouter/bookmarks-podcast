@@ -7,7 +7,12 @@
     <language>en-us</language>
     <itunes:author>Thanh Pham</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://thanhpham87.github.io/flourish-hive/cover.png" />
+    <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/flourish-hive/cover.png" />
+    <image>
+      <url>https://thanhpham87.github.io/bookmarks-podcast/flourish-hive/cover.png</url>
+      <title>Flourish Hive</title>
+      <link>https://thanhpham87.github.io/bookmarks-podcast/flourish-hive/</link>
+    </image>
 
     <item>
       <title>Wednesday Briefing — Jan 28, 2026</title>
