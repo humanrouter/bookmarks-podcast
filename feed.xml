@@ -11,6 +11,17 @@
 
 
 
+
+
+    <item>
+      <title><![CDATA[OpenClaw 2026.2.6: Cron reliability + security scanner (Feb 7)]]></title>
+      <description><![CDATA[Cron reliability fixes, a new skill/plugin safety scanner, and other ops-focused changes that make agent deployments more trustworthy.]]></description>
+      <link>https://github.com/openclaw/openclaw/releases</link>
+      <pubDate>Sat, 07 Feb 2026 18:05:33 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1QKXRGnMSps2byCWfAPHpX4oCC4LJzjJT</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QKXRGnMSps2byCWfAPHpX4oCC4LJzjJT" length="4893090" type="audio/mpeg" />
+      <itunes:duration>00:05:06</itunes:duration>
+    </item>
     <item>
       <title><![CDATA[Control Planes for Agents: Observability + Identity + Context (Feb 6)]]></title>
       <description><![CDATA[Three shifts that make agent deployments safer and more repeatable: traces-as-control-plane, first-class agent identities, and repo-local context packs.]]></description>
