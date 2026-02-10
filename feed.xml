@@ -10,6 +10,17 @@
     <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
 
     <item>
+      <title><![CDATA[OpenClaw Security Whiplash: what to do when your agent goes viral]]></title>
+      <description><![CDATA[A practical playbook for agent ops: contain prompt injection, skills supply-chain risk, and accidental public exposure as OpenClaw goes mainstream.]]></description>
+      <link>https://www.reuters.com/world/china/china-warns-security-risks-linked-openclaw-open-source-ai-agent-2026-02-05/</link>
+      <pubDate>Tue, 10 Feb 2026 18:07:49 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1cahVvdRbEFqV1XSbVVsqnjt-10bNhlLN</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cahVvdRbEFqV1XSbVVsqnjt-10bNhlLN" length="10864472" type="audio/mpeg" />
+      <itunes:duration>00:11:19</itunes:duration>
+    </item>
+
+
+    <item>
       <title><![CDATA[OpenClaw Goes Mainstream - What the CNBC Coverage and Security Research Tell Us]]></title>
       <description><![CDATA[Analysis of OpenClaw's viral moment: CNBC coverage, security research from Trend Micro, and what it means for agent operations and AI workshops.]]></description>
       <link>https://www.cnbc.com/2026/02/02/openclaw-open-source-ai-agent-rise-controversy-clawdbot-moltbot-moltbook.html</link>
