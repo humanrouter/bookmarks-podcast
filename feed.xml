@@ -10,6 +10,16 @@
     <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
 
     <item>
+      <title><![CDATA[Building Production-Ready Agent Workflows: From Prototype to Reliable Automation]]></title>
+      <description><![CDATA[Moving beyond toy demos: state management, idempotency, observability, failure modes, and testing strategies for production-grade AI automation.]]></description>
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      <pubDate>Wed, 11 Feb 2026 18:05:18 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18eNhq0rS3b0OWwQdaevDkqtTX4L-isU9</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18eNhq0rS3b0OWwQdaevDkqtTX4L-isU9" length="3836566" type="audio/mpeg" />
+      <itunes:duration>00:04:00</itunes:duration>
+    </item>
+
+    <item>
       <title><![CDATA[OpenClaw Security Whiplash: what to do when your agent goes viral]]></title>
       <description><![CDATA[A practical playbook for agent ops: contain prompt injection, skills supply-chain risk, and accidental public exposure as OpenClaw goes mainstream.]]></description>
       <link>https://www.reuters.com/world/china/china-warns-security-risks-linked-openclaw-open-source-ai-agent-2026-02-05/</link>
