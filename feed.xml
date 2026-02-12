@@ -10,6 +10,16 @@
     <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
 
     <item>
+      <title><![CDATA[The Rise of the Agentic Operating System & Human-on-the-Loop]]></title>
+      <description><![CDATA[IBM and Deloitte predict a shift to "Agentic Operating Systems" where specialized agents are orchestrated by humans in an "on-the-loop" supervisory role, matching our own OpenClaw architecture.]]></description>
+      <link>https://www.ibm.com/think/news/ai-tech-trends-predictions-2026</link>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZNFcU0Pph4h7N5LXhF6lmGaj_79lK7Ei</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZNFcU0Pph4h7N5LXhF6lmGaj_79lK7Ei" length="3836566" type="audio/mpeg" />
+      <itunes:duration>00:04:00</itunes:duration>
+    </item>
+
+    <item>
       <title><![CDATA[Building Production-Ready Agent Workflows: From Prototype to Reliable Automation]]></title>
       <description><![CDATA[Moving beyond toy demos: state management, idempotency, observability, failure modes, and testing strategies for production-grade AI automation.]]></description>
       <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
