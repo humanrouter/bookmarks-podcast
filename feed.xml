@@ -10,6 +10,16 @@
     <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
 
     <item>
+      <title><![CDATA[Agent Memory Systems: Building Persistent Context for Production AI]]></title>
+      <description><![CDATA[Session memory isn't enough — production agents need layered, persistent memory with semantic search, clear write permissions, and regular maintenance. The difference between demos and production.]]></description>
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      <pubDate>Sat, 14 Feb 2026 18:03:16 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=16q89CQyODHPdIioej0xB0e_CuWJ5S0zp</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16q89CQyODHPdIioej0xB0e_CuWJ5S0zp" length="3830638" type="audio/mpeg" />
+      <itunes:duration>00:03:59</itunes:duration>
+    </item>
+
+    <item>
       <title><![CDATA[Agent Reliability Engineering: Moving AI Agents from Demo to Production]]></title>
       <description><![CDATA[Error handling, observability, idempotency, and production-ready patterns for AI automation that runs unsupervised. The reliability engineering discipline for agents.]]></description>
       <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
