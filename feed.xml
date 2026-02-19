@@ -10,6 +10,17 @@
     <itunes:image href="https://thanhpham87.github.io/bookmarks-podcast/cover.png" />
 
 
+
+    <item>
+      <title><![CDATA[Launchd over Cron — Mission Statements, Skill Architecture, and SOP-to-Workflow Agents]]></title>
+      <description><![CDATA[Why agent ops is shifting from ‘more tools’ to boring reliability: use OS-level scheduling, give agents a north-star mission, and turn SOPs into structured workflows you can audit and improve.]]></description>
+      <link>https://thanhpham87.github.io/bookmarks-podcast/</link>
+      <pubDate>Thu, 19 Feb 2026 18:07:58 GMT</pubDate>
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1rptTYv2YZstoih5v3x9ycyBw2iXQRCqG</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rptTYv2YZstoih5v3x9ycyBw2iXQRCqG" length="5756593" type="audio/mpeg" />
+      <itunes:duration>00:05:59</itunes:duration>
+    </item>
+
     <item>
       <title><![CDATA[Intent over Nodes — Workflow Replacement, Email Agents, and Alert-to-Action Ops]]></title>
       <description><![CDATA[Why intent-driven agents are replacing brittle node graphs: turn workflow exports into reliable jobs, build email triage that defaults to drafts, and convert noisy alerts into contextual incidents with governed runbooks.]]></description>
